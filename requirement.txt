@@ -2,4 +2,4 @@ fastapi
 uvicorn
 rembg
 onnxruntime
-python-multipart
+pillow
